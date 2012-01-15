@@ -1,9 +1,8 @@
 Mindmap version 0.5
 ------------------------
 
-This is the original Mindmap module for moodle. 
-The Mindmap-Module allows you to create mindmaps.  
-This module is in developement - if you experience any problems or you have feature-wishes feel free to contact me.
+This is the original Mindmap module for moodle formerly found on ekpenso.com. 
+The Mindmap-Module allows you to create and save simple mindmaps from within moodle.
 
 Quick install instructions:
 
@@ -14,4 +13,12 @@ Quick install instructions:
 
 You can use this module free of charge.
 
-Thanks.
+t6enis created a fork of this module for moodle2, take a look here:
+https://github.com/t6nis/moodle2-mindmap
+
+The code of the flash viewer/editor component can be found here:
+https://github.com/functino/Mindmap-Editor
+
+A sample website (formerly ekpenso.com) that used the Mindmap Editor to save/edit/share Mindmaps can be found here:
+https://github.com/functino/Ekpenso
+(it's a good starting point if you'd like to see how you can embed the Mindmap Editor and configure it to save/edit/lock etc. Mindmaps)
