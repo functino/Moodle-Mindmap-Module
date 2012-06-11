@@ -14,7 +14,7 @@ Quick install instructions:
 You can use this module free of charge.
 
 t6enis created a fork of this module for moodle2, take a look here:
-https://github.com/t6nis/moodle2-mindmap
+https://github.com/t6nis/moodle-mod_mindmap
 
 The code of the flash viewer/editor component can be found here:
 https://github.com/functino/Mindmap-Editor
